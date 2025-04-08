@@ -1,4 +1,6 @@
 # Change Log
+## 0.0.4 (April 8, 2025)
+Added file extension .ubs, used by DIFS - Compare Two Item Versions
 ## 0.0.3 (October 7, 2019)
 Added support for colon-type inserts and special variables (V., VL., R., etc.)
 ### Known issues

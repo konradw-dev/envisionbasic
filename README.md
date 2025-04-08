@@ -1,6 +1,6 @@
 # Envision Basic
 
-This extension adds language support for UniBasic with Envision extensions by [Ellucian](http://www.ellucian.com/Software/Colleague-by-Ellucian/).  
+This extension adds language support for UniBasic with Envision extensions by [Ellucian&reg;](http://www.ellucian.com/).  
 
 Based on the TextMate definition for Rocketsoft UniBasic created by [Devon McCarty](https://github.com/mrdevon/RocketUnidata)
 
@@ -11,6 +11,7 @@ Based on the TextMate definition for Rocketsoft UniBasic created by [Devon McCar
   - .ub
   - .eb
   - .ebl *(Used in Colleague Studio workspaces)*
+  - .ubs *(Used by Colleague screen SUSE > SOUP > SOUI > SUII > RPIO > DIFS - Compare Two Item Versions)*
 
 ## Requirements
 

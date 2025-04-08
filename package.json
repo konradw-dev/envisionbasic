@@ -1,17 +1,17 @@
 {
   "name": "envisionbasic",
   "displayName": "Envision Basic Language Support",
-  "description": "Unibasic language support with Envision extensions by Ellucian",
+  "description": "Unibasic language support with Envision extensions by Ellucian\u00AE",
   "icon": "images/e-go-icon.png",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "konradwillmert",
   "bugs": {
-    "url": "https://github.com/Icebird/envisionbasic/issues"
+    "url": "https://github.com/konradw-dev/envisionbasic/issues"
   },
-  "homepage": "https://github.com/Icebird/envisionbasic/blob/master/README.md",
+  "homepage": "https://github.com/konradw-dev/envisionbasic/blob/master/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Icebird/envisionbasic.git"
+    "url": "https://github.com/konradw-dev/envisionbasic.git"
   },
   "engines": {
     "vscode": "^1.12.0"
@@ -30,7 +30,8 @@
         "extensions": [
           ".ub",
           ".eb",
-          ".ebl"
+          ".ebl",
+          ".ubs"
         ],
         "configuration": "./language-configuration.json"
       }
