@@ -1,10 +1,15 @@
 {
   "name": "envisionbasic",
   "displayName": "Envision Basic Language Support",
-  "description": "Unibasic language support with Envision extensions by Ellucian\u00AE",
+  "description": "Unibasic language support with Envision extensions by Ellucian®",
   "icon": "images/e-go-icon.png",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "publisher": "konradwillmert",
+  "keywords": [
+    "Ellucian",
+    "Colleague",
+    "Unibasic"
+  ],
   "bugs": {
     "url": "https://github.com/konradw-dev/envisionbasic/issues"
   },
@@ -51,7 +56,8 @@
     ]
   },
   "devDependencies": {
-    "gulp": "^3.9.1",
+    "graceful-fs": "^4.2.11",
+    "gulp": "^5.0.0",
     "gulp-convert": "^0.2.0",
     "gulp-ext-replace": "^0.3.0"
   }

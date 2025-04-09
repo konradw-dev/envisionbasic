@@ -5,3 +5,9 @@ install the items listed under devDependencies in the package.json file.
 
 e.g.
     npm install gulp-ext-replace
+
+Publish from a new machine:
+npm install -g @vscode/vsce
+vsce login konradwillmert
+vsce package
+vsce publish
